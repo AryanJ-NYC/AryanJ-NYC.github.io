@@ -18,6 +18,10 @@ body, html {
     background-color: rgba(62, 60, 64, 0.15);;
 }
 
+.permanent-marker {
+    font-family: "Permanent Marker", "Open Sans", "Helvetica", "Arial", sans-serif;
+}
+
 .white, h1.white {
     color: white;
 }
