@@ -6,16 +6,22 @@ let portfolio = [
     "description": "A webpage created for the Flushing Chamber of Commerce to display Flushing restaurants. Written in PHP using the yelp API."
   },
   {
+    "projectName": "Queens College Tech Incubator",
+    "url": "https://safe-plains-97827.herokuapp.com",
+    "imgUrl": "images/qc-tech-incubator.jpg",
+    "description": "The original website for the Queens College Tech Incubator. Written in PHP."
+  },
+  {
     "projectName": "Simon",
     "url": "http://aryanj-nyc.github.io/simon-game",
     "imgUrl": "images/simon.jpg",
-    "description": "The 90s classic, Simon, emulated in jQuery. The game increases in difficulty as it progresses and is mobile-friendly."
+    "description": "The 90s classic, Simon, emulated using jQuery. The game increases in difficulty as it progresses and is mobile-friendly."
   },
   {
     "projectName": "Tic-Tac-Toe",
     "url": "http://aryanj-nyc.github.io/tic-tac-toe",
     "imgUrl": "images/tic-tac-toe.jpg",
-    "description": "An unbeatable and mobile-friendly tic-tac-toe game in AngularJS using Monte Carlo game simulation trials."
+    "description": "An unbeatable and mobile-friendly tic-tac-toe game written in AngularJS using Monte Carlo game simulation trials."
   }
 ];
 
