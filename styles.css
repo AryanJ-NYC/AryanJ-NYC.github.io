@@ -1,5 +1,6 @@
-body {
+body, html {
     font-family: "Open Sans";
+    height: 100%;
 }
 
 #header {
@@ -8,16 +9,13 @@ body {
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100%;
   line-height: 1.2;
   text-align: center;
 }
 
 #jumbotron-content {
     background-color: rgba(62, 60, 64, 0.15);;
-}
-
-#profile-pic {
-    width: 20vw;
 }
 
 .white, h1.white {
