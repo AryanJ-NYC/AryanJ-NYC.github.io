@@ -1,0 +1,33 @@
+body {
+    font-family: "Open Sans";
+}
+
+#header {
+  background-image: url("background.jpg");
+  background-color: #263d36;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  line-height: 1.2;
+  text-align: center;
+}
+
+#jumbotron-content {
+    background-color: rgba(62, 60, 64, 0.15);;
+}
+
+#profile-pic {
+    width: 20vw;
+}
+
+.white, h1.white {
+    color: white;
+}
+
+.walter-turncoat {
+    font-family: "Walter Turncoat", "Open Sans", "Helvetica", "Arial", sans-serif;
+}
+
+#jumbotron-subtext {
+    font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
+}
