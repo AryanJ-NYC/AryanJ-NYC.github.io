@@ -1,5 +1,11 @@
 let portfolio = [
   {
+    "projectName": "Underground Flushing Food Map",
+    "url": "http://flushing.quic.nyc",
+    "imgUrl": "images/underground-flushing-food.jpg",
+    "description": "A webpage created for the Flushing Chamber of Commerce to display Flushing restaurants. Written in PHP using the yelp API."
+  },
+  {
     "projectName": "Simon",
     "url": "http://aryanj-nyc.github.io/simon-game",
     "imgUrl": "images/simon.jpg",
@@ -17,7 +23,7 @@ for (let i = 0; i < portfolio.length; ++i) {
   let html = 
   `
     <div class="portfolio-item col-xs-12 col-sm-6 col-lg-4">
-      <p class="portfolio-title text-center">${portfolio[i].projectName}</p>
+      <p class="portfolio-title text-center lead">${portfolio[i].projectName}</p>
       <a href="${portfolio[i].url}" target="_blank">
         <img src="${portfolio[i].imgUrl}" class="img-responsive" />
       </a>

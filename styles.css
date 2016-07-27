@@ -1,5 +1,5 @@
 body, html {
-    font-family: "Open Sans";
+    font-family: "Merriweather Sans";
     height: 100%;
 }
 
@@ -18,18 +18,14 @@ body, html {
     background-color: rgba(62, 60, 64, 0.15);;
 }
 
-.permanent-marker {
-    font-family: "Permanent Marker", "Open Sans", "Helvetica", "Arial", sans-serif;
-}
-
 .white, h1.white {
     color: white;
 }
 
 .walter-turncoat {
-    font-family: "Walter Turncoat", "Open Sans", "Helvetica", "Arial", sans-serif;
+    font-family: "Walter Turncoat", "Merriweather Sans", "Helvetica", "Arial", sans-serif;
 }
 
 #jumbotron-subtext {
-    font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
+    font-family: "Merriweather Sans", "Helvetica", "Arial", sans-serif;
 }
