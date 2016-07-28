@@ -36,6 +36,10 @@ for (let i = 0; i < portfolio.length; ++i) {
       <p class="portfolio-description text-center">${portfolio[i].description}</p>
     </div>
   `;
-  if (i+1 % 2 == 0) html += `<div class="clearfix visible-lg-block"></div>`; // clear other divs in case height doesn't match
+  if ((i+1) % 2 == 0) {
+    html += `<div class="clearfix visible-xs-block visible-sm-block visible-md-block"></div>`; // clear other divs in case height doesn't match
+  } else if ((i+1) % 3 == 0) {
+    html += `<div class="clearfix visible-lg-block"></div>`;
+  }
   $('#portfolio').append(html);
 }
