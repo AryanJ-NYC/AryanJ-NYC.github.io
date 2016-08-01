@@ -29,7 +29,7 @@ for (let i = 0; i < portfolio.length; ++i) {
   let html = 
   `
     <div class="portfolio-item col-xs-12 col-sm-6 col-lg-4">
-      <p class="portfolio-title text-center lead">${portfolio[i].projectName}</p>
+      <h3 class="portfolio-title text-center">${portfolio[i].projectName}</h3>
       <a href="${portfolio[i].url}" target="_blank">
         <img src="${portfolio[i].imgUrl}" class="img-responsive portfolio-image" />
       </a>

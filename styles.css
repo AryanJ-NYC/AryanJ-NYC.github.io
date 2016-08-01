@@ -34,8 +34,39 @@ body {
     padding-bottom: 10px;
 }
 
-
+#experience {
+    background: #E3E0E0;
+}
 
 .experience-item {
     padding-bottom: 20px;
+}
+
+.experience-item-image {
+    padding-right: 0;
+}
+
+.company-name {
+    font-size: 2.2em;
+    font-weight: bolder;
+    color: #030304;
+    margin-top: 0;
+    padding-left: 0;
+}
+
+.duration {
+    font-size: 1.2em;
+    color: #878179;
+    padding-left: 0;
+}
+
+.position {
+    font-size: 1.6em;
+    color: #43413F;
+    font-weight: bolder;
+}
+
+.job-description {
+    color: #6A6562;
+    font-size: 1.2em;
 }
