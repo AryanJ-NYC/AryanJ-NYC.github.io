@@ -3,8 +3,8 @@ let portfolio = [
     "projectName": "Underground Flushing Food Map",
     "url": "http://flushing.quic.nyc",
     "imgUrl": "images/underground-flushing-food.jpg",
-    "description": "A webpage created for the Flushing Chamber of Commerce to display Flushing restaurants. Written in PHP using the yelp API.",
-    "tags": [ "PHP", "HTML", "CSS", "Yelp" ]
+    "description": "A webpage created for the Flushing Chamber of Commerce to display Flushing restaurants. Written in PHP using the yelp and Mapbox APIs.",
+    "tags": [ "PHP", "HTML", "CSS", "Mapbox", "Yelp" ]
   },
   {
     "projectName": "Queens College Tech Incubator",
