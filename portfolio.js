@@ -4,28 +4,35 @@ let portfolio = [
     "url": "http://flushing.quic.nyc",
     "imgUrl": "images/underground-flushing-food.jpg",
     "description": "A webpage created for the Flushing Chamber of Commerce to display Flushing restaurants. Written in PHP using the yelp and Mapbox APIs.",
-    "tags": [ "PHP", "HTML", "CSS", "Mapbox", "Yelp" ]
+    "tags": [ "PHP", "HTML", "CSS", "Twitter Bootstrap", "Mapbox API", "Yelp API" ]
   },
   {
     "projectName": "Queens College Tech Incubator",
     "url": "https://safe-plains-97827.herokuapp.com",
     "imgUrl": "images/qc-tech-incubator.jpg",
     "description": "The original website for the Queens College Tech Incubator. Written in PHP.",
-    "tags": [ "PHP", "HTML", "CSS" ]
+    "tags": [ "PHP", "HTML", "CSS", "Twitter Bootstrap" ]
   },
   {
     "projectName": "Simon",
-    "url": "http://aryanj-nyc.github.io/simon-game",
+    "url": "https://aryanj-nyc.github.io/simon-game",
     "imgUrl": "images/simon.jpg",
     "description": "The 90s classic, Simon, emulated using jQuery. The game increases in difficulty as it progresses and is mobile-friendly.",
-    "tags": [ "Javascript", "jQuery", "HTML", "CSS" ]
+    "tags": [ "Javascript", "jQuery", "HTML", "CSS", "Twitter Bootstrap" ]
   },
   {
     "projectName": "Tic-Tac-Toe",
-    "url": "http://aryanj-nyc.github.io/tic-tac-toe",
+    "url": "https://aryanj-nyc.github.io/tic-tac-toe",
     "imgUrl": "images/tic-tac-toe.jpg",
     "description": "An unbeatable and mobile-friendly tic-tac-toe game written in AngularJS using Monte Carlo game simulation trials.",
-    "tags": [ "Javascript", "AngularJS", "HTML", "CSS" ]
+    "tags": [ "Javascript", "AngularJS", "HTML", "CSS", "Twitter Bootstrap" ]
+  },
+  {
+    "projectName": "Local Weather App",
+    "url": "https://aryanj-nyc.github.io/local-weather",
+    "imgUrl": "images/local-weather.jpg",
+    "description": "A web app made with jQuery, the Dark Sky Forecast API and the Google Maps API that displays the local weather.",
+    "tags": [ "Javascript", "jQuery", "HTML", "CSS", "Twitter Bootstrap", "Dark Sky Forecast API", "Google Maps API" ]
   }
 ];
 
