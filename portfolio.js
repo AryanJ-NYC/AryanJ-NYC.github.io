@@ -1,5 +1,12 @@
 let portfolio = [
   {
+    "projectName": "Vote On It!",
+    "url": "https://vote-on-it.herokuapp.com/polls",
+    "imgUrl": "images/voting-app.jpg",
+    "description": "A voting app created with Angular 2, Node.js and MongoDB.",
+    "tags": [ "Angular 2", "Node.js", "MongoDB", "HTML", "CSS", "Twitter Bootstrap" ]
+  },
+  {
     "projectName": "Underground Flushing Food Map",
     "url": "http://flushing.quic.nyc",
     "imgUrl": "images/underground-flushing-food.jpg",
